@@ -1,0 +1,14 @@
+C:\Users\OWNER\RiderProjects\studentGrade\bin\Debug\net8.0\studentGrade.exe
+C:\Users\OWNER\RiderProjects\studentGrade\bin\Debug\net8.0\studentGrade.deps.json
+C:\Users\OWNER\RiderProjects\studentGrade\bin\Debug\net8.0\studentGrade.runtimeconfig.json
+C:\Users\OWNER\RiderProjects\studentGrade\bin\Debug\net8.0\studentGrade.dll
+C:\Users\OWNER\RiderProjects\studentGrade\bin\Debug\net8.0\studentGrade.pdb
+C:\Users\OWNER\RiderProjects\studentGrade\obj\Debug\net8.0\studentGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\RiderProjects\studentGrade\obj\Debug\net8.0\studentGrade.AssemblyInfoInputs.cache
+C:\Users\OWNER\RiderProjects\studentGrade\obj\Debug\net8.0\studentGrade.AssemblyInfo.cs
+C:\Users\OWNER\RiderProjects\studentGrade\obj\Debug\net8.0\studentGrade.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\RiderProjects\studentGrade\obj\Debug\net8.0\studentGrade.dll
+C:\Users\OWNER\RiderProjects\studentGrade\obj\Debug\net8.0\refint\studentGrade.dll
+C:\Users\OWNER\RiderProjects\studentGrade\obj\Debug\net8.0\studentGrade.pdb
+C:\Users\OWNER\RiderProjects\studentGrade\obj\Debug\net8.0\studentGrade.genruntimeconfig.cache
+C:\Users\OWNER\RiderProjects\studentGrade\obj\Debug\net8.0\ref\studentGrade.dll
